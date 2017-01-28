@@ -84,5 +84,6 @@ cursor: pointer;
 
 
 body {
-  background-image: Users/Deb/Documents/debadeogba/img/seattle.jpg;
+  background-image: url("/Users/Deb/Documents/debadeogba/img/seattle.jpg");
+  background-size: 1920px 1080px;
 }
